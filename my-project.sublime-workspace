@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/etc/apache2/sites-available/default/default.conf",
+			"settings":
+			{
+				"buffer_size": 1325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "Package",
+		"selected_items":
+		[
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' +'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control. sublime-package '; ipp =  sublime .installed_packages_path(); urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http:// sublime .wbond.net/' + pf.replace(' ', '%20')).read();dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/laravel/public_html/my-project",
+		"/var/www/laravel/public_html/my-project/app",
+		"/var/www/laravel/public_html/my-project/app/Http",
+		"/var/www/laravel/public_html/my-project/app/Http/Controllers"
+	],
+	"file_history":
+	[
+		"/var/www/laravel/public_html/my-project/public/.htaccess",
+		"/etc/php5/apache2/php.ini",
+		"/etc/apache2/conf-available/laravel.conf",
+		"/etc/apache2/sites-available/laravel.conf",
+		"/var/www/laravel/public_html/my-project/config/app.php",
+		"/var/www/laravel/public_html/my-project/public/index.php",
+		"/var/www/laravel/public_html/my-project/bootstrap/app.php",
+		"/var/www/laravel/public_html/index.php",
+		"/etc/apache2/apache2.conf",
+		"/var/log/apache2/error.log",
+		"/var/www/laravel/public_html/my-project/artisan",
+		"/var/log/apache2/access.log",
+		"/var/www/html/index.html",
+		"/etc/apache2/conf.d/laravel.conf",
+		"/var/www/laravel/public_html/my-project/.htaccess",
+		"/etc/hosts",
+		"/etc/apache2/conf-available/myconf.conf",
+		"/etc/apache2/sites-available/my-project/default.conf",
+		"/etc/apache2/sites-available/default.conf",
+		"/etc/host.conf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/conf-available/security.conf",
+		"/media/azamat/26C6F259C6F228A7/OpenServer/domains/computerpro15/sftp-config.json",
+		"/home/azamat/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/media/azamat/26C6F259C6F228A7/OpenServer/domains/computerpro15/admin/config.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/etc/apache2/sites-available/default/default.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
