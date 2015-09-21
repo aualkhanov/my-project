@@ -11,9 +11,6 @@
 |
 */
 
-/*Route::get('/', function () {
-    return view('welcome');
-});*/
+Route::get('about', 'PagesController@about');
 
-
-get('/', [ 'as' => 'posts', 'uses' => 'PostController@index']);
+Route::get('articles', 'ArticlesController@index');
